@@ -43,6 +43,6 @@ int terms;
 
    Figure 1 and 2, respectively.
    
-3. Write C++ functions to input and output polynomials represented as Figure 2. Your functions
+2. Write C++ functions to input and output polynomials represented as Figure 2. Your functions
   
    should overload the << andand >>operators.operators.
